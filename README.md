@@ -11,7 +11,7 @@
 
 ### 🔑 **Demo Credentials**
 - **Admin Login:** `admin@gmail.com` / `admin`
-- **Patient:** Create your own account with enhanced health profile
+- **Patient:** `user5@gmail.com` / `user@123`
 
 ---
 

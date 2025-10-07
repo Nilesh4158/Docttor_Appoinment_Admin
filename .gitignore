@@ -1,0 +1,45 @@
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Environment Variable Files (contain sensitive data)
+RENDER_ENV_VARIABLES.txt
+VERCEL_ENV_VARIABLES.txt
+
+# Development and Testing Files
+test-*.js
+deploy-prep.*
+
+# Redundant Documentation (keeping main docs)
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_CHECKLIST.md
+LIVE_DEPLOYMENT_GUIDE.md
+ENHANCED_PATIENT_PROFILE_IMPLEMENTATION.md
+PATIENT_MANAGEMENT_IMPLEMENTATION.md
+
+# Root level package files (not needed)
+package-lock.json
+
+# Development directories
+.venv/
+node_modules/
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

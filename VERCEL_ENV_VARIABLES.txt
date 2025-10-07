@@ -1,0 +1,17 @@
+# Vercel Environment Variables Template
+
+## For Frontend Deployment:
+VITE_BACKEND_URL=https://prescripto-backend-XXXXX.onrender.com
+
+## For Admin Deployment:
+VITE_BACKEND_URL=https://prescripto-backend-XXXXX.onrender.com
+
+# Instructions:
+# 1. Replace XXXXX with your actual Render backend URL
+# 2. Add this environment variable in Vercel for both frontend and admin projects
+# 3. This allows your frontend and admin to communicate with the live backend
+
+# Example URLs after deployment:
+# Backend:  https://prescripto-backend-xyz123.onrender.com
+# Frontend: https://prescripto-frontend.vercel.app  
+# Admin:    https://prescripto-admin.vercel.app

@@ -29,6 +29,7 @@ const corsOptions = {
       'http://localhost:5174',
       'https://prescripto-frontend.vercel.app',
       'https://prescripto-admin.vercel.app',
+      'https://docttor-appoinment-admin-8np2.vercel.app', // Your actual admin URL
       // Add your deployed URLs here
       process.env.FRONTEND_URL,
       process.env.ADMIN_URL

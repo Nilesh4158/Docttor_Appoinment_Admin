@@ -1,5 +1,20 @@
 # 🏥 Prescripto - Complete Healthcare Platform
 
+## 🚀 **LIVE DEPLOYMENT - Try It Now!**
+
+### 🌐 **Live Applications**
+| Application | URL | Purpose |
+|------------|-----|---------|
+| 👥 **Patient Portal** | [https://docttor-appoinment-admin-8np2-nktpi2oky.vercel.app/](https://docttor-appoinment-admin-8np2-nktpi2oky.vercel.app/) | Patient registration, doctor booking, health profiles |
+| 🏥 **Admin Panel** | [https://docttor-appoinment-admin.vercel.app/login](https://docttor-appoinment-admin.vercel.app/login) | Doctor approval, patient management, analytics |
+| 🔧 **Backend API** | [https://docttor-appoinment-admin.onrender.com/](https://docttor-appoinment-admin.onrender.com/) | REST API, database operations |
+
+### 🔑 **Demo Credentials**
+- **Admin Login:** `admin@gmail.com` / `admin`
+- **Patient:** Create your own account with enhanced health profile
+
+---
+
 ## 🎯 Project Overview
 Prescripto is a comprehensive, full-stack healthcare management platform that connects patients with healthcare providers through a modern, secure, and user-friendly interface. The platform includes patient registration, doctor management, appointment booking, and administrative tools for complete healthcare operations.
 
